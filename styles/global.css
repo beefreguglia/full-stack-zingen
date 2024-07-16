@@ -49,6 +49,7 @@ html {
 
 body {
   background: var(--bg-color);
+  overflow-x: hidden;
 }
 
 h1, h2, h3 {
