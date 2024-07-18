@@ -10,7 +10,7 @@
 Este projeto foi desenvolvido e aprimorado durante o curso full-stack da Rocketseat.
 
 Acesse:
-https://beefreguglia.github.io/full-stack-technews/
+https://beefreguglia.github.io/full-stack-zingen/
 
 ## 💻 Tecnologias
 
