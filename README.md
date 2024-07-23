@@ -19,7 +19,7 @@ https://beefreguglia.github.io/full-stack-zingen/
 
 ## ☕ Aprenizado
 
-Foi aprendido como utilizar o media queries, o conceito de mobile first e ferramentas auxiliares.
+Foi aprendido como utilizar animações e transições CSS.
 
 ## 📝 Licença
 
