@@ -19,7 +19,7 @@ https://beefreguglia.github.io/full-stack-zingen/
 
 ## ☕ Aprenizado
 
-Foi aprendido como utilizar animações e transições CSS.
+Foi aprendido como utilizar o mobile first e conceitos de responsividade.
 
 ## 📝 Licença
 
