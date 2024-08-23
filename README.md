@@ -2,7 +2,7 @@
 
 <img src="./assets/desktop.png" alt="desktop">
 
-> Zingen é uma lading page de uma aplicação de Karaokê por assinatura.
+> Zingen é uma landing page de uma aplicação de Karaokê por assinatura.
 
 
 ## 🚀 Projeto formação Full-stack Rocketseat
